@@ -1,4 +1,4 @@
-#Connect-Four Game - Using "Java"
+# Connect-Four-Game
 
 The Connect Four game is a classic strategy board game that has been enjoyed by people of all ages for decades. It's a two-player game in which each player takes turns dropping colored discs into a vertical grid, to connect four of their discs in a row, either horizontally, vertically, or diagonally.
 
